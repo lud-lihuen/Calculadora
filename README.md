@@ -2,8 +2,12 @@
 
 ## Language: ES
 
-Esta es una calculadora web simple.
+Calculadora web simple.
+
+Desarrollada con HTML5, CSS3, JavaScript, Bootstrap 4.
 
 ## Language: EN
 
-This is a simple web calculator.
+Simple web calculator.
+
+Developed using HTML5, CSS3, JavaScript, Bootstrap 4.
